@@ -1,1 +1,2 @@
 # RiceLeaf_disease_detection
+Designed a classification model to detect leaf blasts, bacterial blight, and brown spots in rice plants. Explored techniques like data augmentation to enhance the model's accuracy and reliability. Libraries used in this are: matplotlib.pyplot, seaborn, itertools, cv2, PIL, skimage.transform, tensorflow, kerastuner, sklearn. Hypertuning is done using all the kerastuner tools. CNN algorithm is used in pattern recognition and image processing.
